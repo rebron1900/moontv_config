@@ -341,10 +341,6 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "name": "魔都资源",
       "detail": "https://moduzy.com"
-    },
-    "71": {
-      "api": "https://wukongzy.com/api.php/provide/vod/",
-      "name": "悟空资源"
     }
   },
   "custom_category": [
