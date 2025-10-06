@@ -322,25 +322,14 @@
       "is_adult": false
     },
     "67": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "TV-魔都资源",
-      "detail": "https://www.moduzy.net",
-      "is_adult": false
-    },
-    "68": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "TV-索尼资源",
       "is_adult": false
     },
-    "69": {
+    "68": {
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "name": "ikun资源",
       "detail": ""
-    },
-    "70": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
-      "name": "魔都资源",
-      "detail": "https://moduzy.com"
     }
   },
   "custom_category": [
