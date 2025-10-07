@@ -293,40 +293,36 @@
       "name": "星云资源"
     },
     "61": {
-      "api": "http://yingshi.com/api.php/provide/vod",
-      "name": "影视资源"
-    },
-    "62": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "name": "TV-红牛资源"
     },
-    "63": {
+    "62": {
       "name": "TV-金鹰资源",
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jinyingzy.net"
     },
-    "64": {
+    "63": {
       "api": "https://api.yzzy-api.com/inc/apijson.php/provide/vod",
       "name": "优质资源库",
       "detail": "yzzy.tv"
     },
-    "65": {
+    "64": {
       "api": "https://xingba222.com/api.php/provide",
       "name": "杏吧资源",
       "detail": "https://sex8zy8.com"
     },
-    "66": {
+    "65": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "TV-iKun资源",
       "detail": "https://ikunzy.com",
       "is_adult": false
     },
-    "67": {
+    "66": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "TV-索尼资源",
       "is_adult": false
     },
-    "68": {
+    "67": {
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "name": "ikun资源",
       "detail": ""
