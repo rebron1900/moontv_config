@@ -171,21 +171,17 @@
       "name": "永久资源"
     },
     "36": {
-      "api": "http://xingyun.com/api.php/provide/vod",
-      "name": "星云资源"
-    },
-    "37": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "TV-iKun资源",
       "detail": "https://ikunzy.com",
       "is_adult": false
     },
-    "38": {
+    "37": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "TV-索尼资源",
       "is_adult": false
     },
-    "39": {
+    "38": {
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "name": "ikun资源",
       "detail": ""
