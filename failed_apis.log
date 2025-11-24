@@ -1322,3 +1322,9 @@
 [2025-11-13 00:56:43] http://xingyun.com/api.php/provide/vod - 
 [2025-11-18 00:55:58] http://154.219.117.232:9981/jacloudapi.php/provide/vod/ - Cannot connect to host 154.219.117.232:9981 ssl:default [Connect call failed ('154.219.117.232', 9981)]
 [2025-11-21 00:55:34] http://www.piaohuazy.com/api.php/provide/vod - 
+[2025-11-24 00:59:47] https://api.zuidapi.com/api.php/provide/vod - Filtered by content: sm
+[2025-11-24 00:59:47] https://caiji.kuaichezy.org/api.php/provide/vod - Filtered by content: sm
+[2025-11-24 00:59:47] https://cj.yayazy.net/api.php/provide/vod - Filtered by content: sm
+[2025-11-24 00:59:47] https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list - Filtered by content: sm
+[2025-11-24 00:59:47] http://zuidazy.me/api.php/provide/vod - Filtered by content: sm
+[2025-11-24 00:59:47] https://zuidazy.me/api.php/provide/vod - Filtered by content: sm
