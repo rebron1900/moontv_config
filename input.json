@@ -134,11 +134,6 @@
       "is_adult": false
     },
     "28": {
-      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
-      "name": "TV-索尼资源",
-      "is_adult": false
-    },
-    "29": {
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "name": "ikun资源",
       "detail": ""
