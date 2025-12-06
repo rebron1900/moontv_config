@@ -107,17 +107,6 @@
     "22": {
       "api": "https://yongjiuzy.com/api.php/provide/vod/",
       "name": "永久资源"
-    },
-    "23": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "TV-iKun资源",
-      "detail": "https://ikunzy.com",
-      "is_adult": false
-    },
-    "24": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
-      "name": "ikun资源",
-      "detail": ""
     }
   },
   "custom_category": [
