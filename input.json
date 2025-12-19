@@ -90,11 +90,6 @@
       "detail": "https://api.wwzy.tv"
     },
     "19": {
-      "name": "TV-飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod",
-      "detail": "https://p2100.net"
-    },
-    "20": {
       "api": "https://yongjiuzy.com/api.php/provide/vod/",
       "name": "永久资源"
     }
