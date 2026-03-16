@@ -1348,3 +1348,5 @@
 [2026-03-09 01:14:20] https://wwzy.tv/api.php/provide/vod - Status 500
 [2026-03-09 01:14:21] https://api.wwzy.tv/api.php/provide/vod - Status 500
 [2026-03-09 01:14:21] https://www.wwzy.tv/api.php/provide/vod - Status 500
+[2026-03-16 01:23:21] https://gaoqingzy.com/api.php/provide/vod - Cannot connect to host gaoqingzy.com:443 ssl:default [None]
+[2026-03-16 01:23:21] https://yongjiuzy.com/api.php/provide/vod/ - Cannot connect to host yongjiuzy.com:443 ssl:default [None]

@@ -27,27 +27,19 @@
       "detail": "https://www.gdlsp.com"
     },
     "6": {
-      "api": "https://gaoqingzy.com/api.php/provide/vod",
-      "name": "高清资源"
-    },
-    "7": {
       "api": "https://www.qilinzyz.com/api.php/provide/vod",
       "name": "TV-麒麟资源",
       "detail": "https://www.qilinzyz.com/"
     },
-    "8": {
+    "7": {
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "9": {
+    "8": {
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "detail": ""
-    },
-    "10": {
-      "api": "https://yongjiuzy.com/api.php/provide/vod/",
-      "name": "永久资源"
     }
   },
   "custom_category": [
