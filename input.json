@@ -20,16 +20,6 @@
       "api": "https://www.qilinzyz.com/api.php/provide/vod",
       "name": "TV-麒麟资源",
       "detail": "https://www.qilinzyz.com/"
-    },
-    "5": {
-      "name": "TV-无尽资源",
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "detail": ""
-    },
-    "6": {
-      "name": "TV-无尽资源",
-      "api": "https://api.wujinapi.net/api.php/provide/vod",
-      "detail": ""
     }
   },
   "custom_category": [
